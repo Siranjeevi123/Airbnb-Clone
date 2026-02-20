@@ -1,0 +1,4 @@
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"02-19-2026 18:50:01","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"02-19-2026 18:50:01","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Validating request body","timestamp":"02-19-2026 18:50:22","correlationId":"7fa41393-76f2-4498-9432-3f2d083d727d","data":{}}
+{"level":"error","message":"Request body is invalid","timestamp":"02-19-2026 18:50:22","correlationId":"7fa41393-76f2-4498-9432-3f2d083d727d","data":{}}
