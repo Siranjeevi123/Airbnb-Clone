@@ -1,0 +1,3 @@
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"02-21-2026 11:59:58","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Press Ctrl+C to stop the server.","timestamp":"02-21-2026 11:59:58","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
+{"level":"info","message":"Database connection has been established successfully.","timestamp":"02-21-2026 11:59:59","correlationId":"unknown-error-while-creating-correlation-id","data":{}}
